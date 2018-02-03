@@ -1,0 +1,24 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Constructor Hangman Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewinurdin/constructor-hangman.git"
+  },
+  "author": "Dewi Nurdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dewinurdin/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/Dewinurdin/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "is-letter": "^1.1.1",
+    "prompt": "^1.0.0"
+  }
+}
